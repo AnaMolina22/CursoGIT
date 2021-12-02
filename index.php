@@ -1,11 +1,6 @@
 <div>
 <p>
-        Feliz cumple
-    </p>    
-hacer commit cada vez que te levantes de la silla
-
-
-        Feliz Navidad
+        Feliz Cumpole
     </p>
     hacer commit cada vez que te levantes de la silla
 >>>>>>> Ana
